@@ -5,6 +5,7 @@ import Projects from './pages/Home'
 import Experience from './pages/Experience'
 import Interests from './pages/Interests'
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/interests" element={<Interests />} />
         </Routes>
       </Router>
+      <Footer />
     </div>
   );
 }
