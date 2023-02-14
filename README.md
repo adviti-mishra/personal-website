@@ -1,3 +1,7 @@
+
+# My portfolio is still a work in progress, but here's the source code for it as I actively develop it!!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
